@@ -1,7 +1,2 @@
 # AuthoResponse
-ChatGpt Autho Responser
-you need change:
--api.key
--api_hash
--api_id
--your_id
+Бот Авто ответчик, когда приходит новое сообщение приходит пользовотелю нейросеть чат гпт обрабатывает это сообщение и отвечает на него!
